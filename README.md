@@ -1,4 +1,4 @@
-# firestorage_demo
+# FireStorage
 
 A new Flutter project.
 
